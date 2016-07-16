@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "77AB00CE854347E6601B6DA49F1364EB7F8F6029",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9c0ce0be-52c6-190e-cd0d-ce57b7db7bff++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "77AB00CE854347E6601B6DA49F1364EB7F8F6029" : 0,
+    "9c0ce0be-52c6-190e-cd0d-ce57b7db7bff++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8C899A76-DB51-4701-A97D-8EB2D6A80CD7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "77AB00CE854347E6601B6DA49F1364EB7F8F6029" : "QQMusic\/",
+    "9c0ce0be-52c6-190e-cd0d-ce57b7db7bff++505" : "qqMusic.git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QQMusic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QQMusic\/QQMusic.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liudiange\/qqMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77AB00CE854347E6601B6DA49F1364EB7F8F6029"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liudiange\/qqMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9c0ce0be-52c6-190e-cd0d-ce57b7db7bff++505"
+    }
+  ]
+}
